@@ -1,121 +1,102 @@
-<!-- Beautiful Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/OYVpe2j.gif" width="100%" alt="profile banner">
+  <img src="https://i.imgur.com/dZ3P9Yt.gif" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">👋 Hello, I'm <span style="color:#00E5FF;">Yash Sonone</span></h1>
+<h1 align="center">👋 Hello, I'm <span style="color:#00BFFF">Yash Sonone</span></h1>
+<h3 align="center">Data Analyst | Python Developer | Power BI Specialist | MCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Statistics;Transforming+Data+into+Business+Insights;Always+Learning+%26+Building+%F0%9F%9A%80" />
-</p>
-
----
-
-## 🌟 About Me
-
-I’m an ambitious **Data Analyst & Python Developer**, passionate about building  
-⚡ interactive dashboards  
-⚡ data-driven insights  
-⚡ BI reports  
-⚡ analytical solutions  
-
-Recently completed a **Data Analytics Internship at Cognifyz Technologies**, where I developed a full-scale **Zomato Restaurants Power BI Dashboard** using DAX, Power Query, and advanced visuals.
-
----
-
-# 🧠 **Skills & Technologies**
-
-## 📊 Data Analytics & BI  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,powershell" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-0E73C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_Query-1E6C2F?style=for-the-badge&logo=microsoft" />
-</p>
-
-## 🧮 Python Libraries  
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge" />
-</p>
-
-## 🛠 Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&width=580&lines=Turning+Data+Into+Decisions+📊;Transforming+raw+data+into+insights+💡;Power+BI+%7C+Python+%7C+SQL+%7C+DAX;Always+Learning%2C+Growing+%26+Building+🚀" />
 </p>
 
 ---
 
-# 📌 Featured Project — **Zomato Restaurants Data Analysis Dashboard**
+## 🔥 About Me  
+I am a passionate **Data Analyst & Python Developer**, currently pursuing MCA.  
+I enjoy solving problems using **data analytics, business intelligence, and machine learning**.  
+I recently completed a **Power BI internship at Cognifyz Technologies**, where I built a full Zomato analytics dashboard with DAX, Power Query, and advanced visuals.
 
-<p align="center">
-  <img src="https://i.imgur.com/zYdKsCS.png" width="85%" />
-</p>
-
-### 🔍 Highlights  
-✔ Data cleaning in **Power Query**  
-✔ DAX-based KPIs  
-✔ Interactive slicers  
-✔ Geographic mapping  
-✔ Rating distribution & cuisine analysis  
-✔ Multi-page professional dashboard  
-
-🔗 **LinkedIn Post:** *ADD LINK*  
-🔗 **GitHub Repository:** *ADD LINK*
+✔ Power BI + DAX specialist  
+✔ Python for Data Science  
+✔ Strong foundation in statistics & analytics  
+✔ Love for clean dashboards, automation & clear storytelling  
 
 ---
 
-# 📚 Python & Statistics Projects  
-✔ Hypothesis Testing  
-✔ Confidence Intervals  
-✔ Probability Models  
-✔ Descriptive Analytics  
-✔ Python Basics  
+## 🎯 My Core Skills  
+### 🧠 Programming & Data  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-2A74D9?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 
-See more here ⬇  
-👉 https://github.com/YOUR_USERNAME?tab=repositories
+### 📊 Analytics & BI  
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0E73C0?style=for-the-badge)
 
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+### 🛠 Tools  
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-# 🐍 Contribution Snake  
+## 📌 Top Projects  
+### 📊 **Zomato Restaurants Data Analysis – Power BI Dashboard**
+✔ Multi-page dashboard  
+✔ DAX measures + calculated columns  
+✔ Global map, ratings, delivery stats  
+✔ Data cleaning & modeling  
+🔗 **LinkedIn Post:** *ADD_LINK*  
+🔗 **GitHub Repo:** *ADD_LINK*
+
+---
+
+### 📈 Statistics & Data Science Mini-Projects  
+- Confidence Interval Estimation  
+- Hypothesis Testing  
+- Descriptive Statistics Analysis  
+- Probability & Distributions  
+
+---
+
+### 🐍 Python Practice Projects  
+- Loops, functions, conditionals  
+- String operations  
+- Beginner coding exercises  
+
+---
+
+## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="45%">
 </p>
 
 ---
 
-# 🌐 Connect With Me  
-
+## 🐍 Contribution Snake Animation  
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+---
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashdilipsonone">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:yashsonone15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- Wavy Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:FF00FF&height=120&section=footer" />
-</p>
+<p align="center">⭐ Thanks for visiting! Feel free to explore my work and connect with me.</p>
