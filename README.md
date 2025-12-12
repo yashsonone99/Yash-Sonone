@@ -44,7 +44,7 @@ where I built a complete **Power BI Zomato Analysis Dashboard**.
 - Multi-page dashboard with KPIs, maps, rating distribution, cost analysis  
 - Used DAX for calculated columns & measures  
 - Country-wise, city-wise, cuisine-wise insights  
-🔗 *[View LinkedIn Post](YOUR_LINKEDIN_POST_LINK)*  
+🔗 *[View LinkedIn Post](www.linkedin.com/in/yash-s-0ab717248)*  
 🔗 *[GitHub Repository](YOUR_REPOSITORY_LINK)*  
 
 ---
